@@ -1,0 +1,18 @@
+Customer intake note for internal QA demo:
+
+Name: Alice Johnson
+Email: alice.johnson1987@example.com
+Backup Email: a.johnson+family@mailservice.org
+Phone: +1 (415) 555-0198
+Alternate Phone: 020 7946 0958
+Date of Birth: 14/09/1987
+National ID: 123-45-6789
+Credit Card used for test transaction: 4111 1111 1111 1111
+Recent login IP: 203.0.113.77
+
+Spouse contact:
+Name: Mark Johnson
+Email: mark_j@example.net
+Phone: +44 7700 900123
+
+Please process and then remove personal identifiers before sharing this note.
